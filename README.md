@@ -1,48 +1,40 @@
-# Noeme Systems
+# Diogo Oliveira
 
-### Production Systems Behind NOEME
+## The Systems Behind NOEME
 
-This repository documents the systems used to build **NOEME** — layered narrative structure, cosmology, screenplay logic, bridge systems, emotional pacing, and production reference.
+This repository documents how NOEME's production systems were built — cosmology, structure, and the mechanisms that let a long-form mystery accumulate meaning without collapsing into either confusion or premature explanation.
 
-It is not the finished story. It is the method and system layer behind the work.
+Part of a larger body of work — see **[Home →](https://github.com/VediRago/diogo-oliveira)** if useful, or continue below.
 
-Part of a larger body of work — see [Home →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
-
-**[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-narrative-design)** — the wider narrative design methodology this repository grows out of.
+**[NOEME →](https://github.com/VediRago/diogo-oliveira-noeme)** — the pilot these systems were built to support.
 
 ---
 
-## What's Here
+## Principles
 
-### Layered Narrative System
-
-The core NOEME system: how delayed recognition, bridge structures, reader reward, and emotional pacing work together without flattening the mystery.
-
-This case study is being moved here from the Narrative Design Portfolio so NOEME's production logic has its own dedicated home.
-
-### Production Reference
-
-Supporting files for building and maintaining NOEME's structure, including:
-
-- cosmology
-- unity logic
-- bridge indexes
-- act emotional maps
-- scene blueprints
-- camera and movement layers
-- screenplay/prose production references
+The production-system principles that guide every case study below.
 
 ---
 
-## Repository Role
+## Start Here
 
-This is a **Layer 2 — Method** repository.
+### Building the Cosmology
 
-It answers:
+A cosmology should generate stories rather than explain them — the Continuity Cycle, traced from a single 661-character note to a full structural system.
 
-> How was NOEME built?
+### Building the Bridge System
 
-For the finished NOEME project itself, see [NOEME →](https://github.com/VediRago/Noeme).
+How evidence accumulates across separated moments, without relying on mystery-box withholding or cheap twists.
+
+### Building Unity
+
+How emotional convergence becomes structural convergence — where screenplay, pacing, and cosmology meet.
+
+---
+
+## Vault
+
+The vault holds the supporting evidence behind each case study.
 
 ---
 
